@@ -8,6 +8,13 @@
       "when": 1752933718748,
       "tag": "0000_ordinary_synch",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1754004894738,
+      "tag": "0001_unique_wolfsbane",
+      "breakpoints": true
     }
   ]
 }
